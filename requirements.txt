@@ -1,0 +1,2 @@
+pywin32==304
+dearpygui==1.6.2
